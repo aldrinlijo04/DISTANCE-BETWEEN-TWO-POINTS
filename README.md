@@ -23,7 +23,11 @@ dist=math.sqrt (((b[0]-a[0])**2)+((b[1]-a[1])**2))
 print("{:.2f}".format(dist))
 ```
 ### OUTPUT:
+
+
+
 ![output](/dis%20between%20two%20points%20.png)
+
 
 
 ### RESULT:
