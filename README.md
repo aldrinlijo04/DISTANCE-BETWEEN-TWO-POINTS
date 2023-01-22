@@ -15,6 +15,13 @@ Substitute the values in the distance formula
 ### Step 4:
 Print the output with two values after decimal 
 ### PROGRAM:
+```
+## DISTANCE-BETWEEN-TWO-POINTS:
+```
+```
+Developed by: ALDRIN LIJO J E
+REF NO: 22008844
+```
 ```py
 import math
 a=[10,6]
@@ -26,7 +33,7 @@ print("{:.2f}".format(dist))
 
 
 
-![output](/dis%20between%20two%20points%20.png)
+![output](/Screenshot%202023-01-22%20220838.png)
 
 
 
